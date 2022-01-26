@@ -79,6 +79,7 @@ img{
 }
 .dots{
     position: absolute;
+    /*HORIZONTAL*/
     left: 50%;
     bottom: 0;
     transform: translate(-50%, 32px);
